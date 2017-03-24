@@ -1,7 +1,7 @@
 //topics to list
 var topics = ['stars', 'planets', 'galaxy', 'univers', 'moons', 'black holes'];
 //api url
-var url = 'http://api.giphy.com/v1/gifs/search';
+var url = 'https://api.giphy.com/v1/gifs/search';
 var apiKey = 'api_key=dc6zaTOxFJmzC';
 //populate topics
 populateTopics();
